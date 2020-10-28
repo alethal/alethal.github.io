@@ -8,4 +8,4 @@ Just 3 html templates - either with all css included in head or as an external f
   <li>Basic<p>all features of simple + simple javascript sorter - buttons</p></li>
  </ul>
  -------------
- Hope you find them useful.
+ <p>Hope you find them useful.</p>
